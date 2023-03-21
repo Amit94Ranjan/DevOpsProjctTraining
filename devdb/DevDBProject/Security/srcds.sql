@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [srcds]
+    AUTHORIZATION [dbo];
+

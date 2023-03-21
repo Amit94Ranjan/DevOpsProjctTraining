@@ -1,0 +1,10 @@
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\bin\Debug\DevDBProject.dacpac
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\bin\Debug\DevDBProject.dll
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\bin\Debug\DevDBProject.pdb
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\DevDBProject.sqlproj.AssemblyReference.cache
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\Model.xml
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\refactor.xml
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\postdeploy.sql
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\predeploy.sql
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\DevDBProject.dll
+C:\Users\Amit.Ranjan\source\repos\DevOpsProjctTraining\devdb\DevDBProject\obj\Debug\DevDBProject.pdb
